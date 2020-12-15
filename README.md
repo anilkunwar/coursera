@@ -7,3 +7,4 @@ Repository for lectures offered from Coursera Plus
 
 ## Work in Progress
 - Imperial College London - Probabilistic Deep Learning with Tensorflow 2 [[home]](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)/[[github]](https://github.com/goodboychan/coursera/tree/main/ICL_Probabilistic_Deep_Learning_with_tf2)
+- University of Alberta - Fundamentals of Reinforcement Learning [[home]](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)/[[github]]()
