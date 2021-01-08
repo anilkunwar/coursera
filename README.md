@@ -8,4 +8,5 @@ Repository for lectures offered from Coursera Plus
 
 ## Work in Progress
 - Imperial College London - Probabilistic Deep Learning with Tensorflow 2 [[home]](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)/[[github]](https://github.com/goodboychan/coursera/tree/main/ICL_Probabilistic_Deep_Learning_with_tf2)
+- University of Alberta - Sample-based Learning Methods [[home]](https://www.coursera.org/learn/sample-based-learning-methods)/[[github]](https://github.com/goodboychan/coursera/tree/main/UoA_Sample_based_Learning_Methods)
 
