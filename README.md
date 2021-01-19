@@ -10,4 +10,6 @@ Repository for lectures offered from Coursera Plus
 
 ## Work in Progress
 - Imperial College London - Probabilistic Deep Learning with Tensorflow 2 [[home]](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)/[[github]](https://github.com/goodboychan/coursera/tree/main/ICL_Probabilistic_Deep_Learning_with_tf2)
+ University of Alberta - Prediction and Control with Function Approximation [[home]](https://www.coursera.org/learn/prediction-control-function-approximation)/[[github]](https://github.com/goodboychan/coursera/tree/main/UoA_Predictions_and_Control_with_function_approximation)
+
 
