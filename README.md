@@ -11,5 +11,5 @@ Repository for lectures offered from Coursera Plus
 
 ## Work in Progress
 - Imperial College London - Probabilistic Deep Learning with Tensorflow 2 [[home]](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)/[[github]](https://github.com/goodboychan/coursera/tree/main/ICL_Probabilistic_Deep_Learning_with_tf2)
-
+- Higher School of Economics - Introduction to Deep Learning [[home]](https://www.coursera.org/learn/intro-to-deep-learning?)/[[github]](https://github.com/goodboychan/coursera/tree/main/HSE_Introduction_to_Deep_Learning)
 
