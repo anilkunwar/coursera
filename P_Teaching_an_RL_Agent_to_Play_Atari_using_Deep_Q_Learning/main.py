@@ -57,11 +57,11 @@ MODEL_SAVE_FREQ = 100
 env = gym.make('Phoenix-v4')
 num_actions = env.action_space.n
 
-primary_network = DQN(32, num_actions)
-primary_network.compile(optimizer=tf.keras.optimizers.Adamax(), loss=tf.keras.losses.Huber())
+primary_network = DQN(1024, num_actions)
+primary_network.compile(optimizer=tf.keras.optimizers.Adam(), loss=tf.keras.losses.Huber())
 
 #  max_memory, batch_size, frame_size, total_frame
-memory = Memory(10000, BATCH_SIZE, POST_PROCESS_IMAGE_SIZE, NUM_FRAMES)
+memory = Memory(100000, BATCH_SIZE, POST_PROCESS_IMAGE_SIZE, NUM_FRAMES)
 
 eps = MAX_EPS
 render = True
@@ -76,7 +76,6 @@ for i in range(1000000):
     state_stack = tf.Variable(np.repeat(state.numpy(), NUM_FRAMES).reshape((POST_PROCESS_IMAGE_SIZE[0],
                                                                             POST_PROCESS_IMAGE_SIZE[1],
                                                                             NUM_FRAMES)))
-
     cnt = 1
     avg_loss = 0
     total_reward = 0
